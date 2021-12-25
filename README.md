@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[banner]: https://raw.githubusercontent.com/ahsankhan26/ahsankhan26/master/banner.jpg
+[website]: https://ahsankhan.me
